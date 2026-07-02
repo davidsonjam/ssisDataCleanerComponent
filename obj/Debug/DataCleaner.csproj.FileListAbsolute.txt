@@ -1,0 +1,4 @@
+N:\ssisDataCleanerComponent\obj\Debug\DataCleaner.csproj.AssemblyReference.cache
+N:\ssisDataCleanerComponent\obj\Debug\DataCleansing.DataCleanerDialog.resources
+N:\ssisDataCleanerComponent\obj\Debug\DataCleaner.csproj.GenerateResource.cache
+N:\ssisDataCleanerComponent\obj\Debug\DataCleaner.csproj.CoreCompileInputs.cache
